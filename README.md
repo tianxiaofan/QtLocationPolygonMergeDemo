@@ -1,0 +1,2 @@
+# QtLocationPolygonMergeDemo
+在QtLocation中实现一个多边形合并，类似于游戏中的战争阴影，只是个demo
